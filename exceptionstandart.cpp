@@ -4,5 +4,9 @@
 using namespace std;
 
 int main(){
-  
+  cout << "Awal program" << endl; 
+    try
+    {
+       
+    }
 }
