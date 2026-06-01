@@ -1,0 +1,1 @@
+ "d:\TI Semester 2\Pemrograman Dasar\Projek\Projek 13 -Stream Reader and Writer\" ; if ($?) { g++ iofilewithpath.cpp -o iofilewithpath } ; if ($?) { .\iofilewithpath }
